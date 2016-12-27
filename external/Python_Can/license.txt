@@ -1,0 +1,4 @@
+Creative Commons Attribution-ShareAlike 3.0 Unported License 
+From: http://elinux.org/Python_Can
+
+Split in to separate send and receive scripts by Dan Klinedinst
