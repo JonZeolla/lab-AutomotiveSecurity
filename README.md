@@ -15,7 +15,7 @@
 
 ## Related Events
 ### 2016-05-12 Steel City Information Security Lab
-[Event Details](http://www.meetup.com/Steel-City-InfoSec/boards/thread/49839423)
+[Event Details](http://www.meetup.com/Steel-City-InfoSec/boards/thread/49839423)  
 [Event Posting](http://www.meetup.com/Steel-City-InfoSec/events/226195653/)
 
 ## How to use this repo
@@ -51,6 +51,7 @@ setup/configure.sh
 * http://www.carhackingvillage.com/  
 * http://www.boschdiagnostics.com/pro/j2534-faqs  
 * http://www.canbushack.com/blog/index.php  
+* https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris
 
 ## Migration
 On 2016-12-27, this repo was migrated from the AutomotiveSecurity branch of https://github.com/JonZeolla/Lab to its own standalone repository.  This was in order to make contributions and third party use easier, as I received feedback that the branching strategy used before was confusing to some.

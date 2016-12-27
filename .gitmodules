@@ -1,0 +1,24 @@
+[submodule "external/vircar"]
+	path = external/vircar
+	url = https://github.com/dn5/vircar
+[submodule "external/vircar-fuzzer"]
+	path = external/vircar-fuzzer
+	url = https://github.com/dn5/vircar-fuzzer
+[submodule "external/Kayak"]
+	path = external/Kayak
+	url = https://github.com/dschanoeh/Kayak
+[submodule "external/cantact-app"]
+	path = external/cantact-app
+	url = https://github.com/linklayer/cantact-app
+[submodule "external/ICSim"]
+	path = external/ICSim
+	url = https://github.com/zombieCraig/ICSim
+[submodule "external/socketcand"]
+	path = external/socketcand
+	url = https://github.com/dschanoeh/socketcand
+[submodule "external/pyobd-pi"]
+	path = external/pyobd-pi
+	url = https://github.com/Pbartek/pyobd-pi
+[submodule "external/pyobd-pi-TFT"]
+	path = external/pyobd-pi-TFT
+	url = https://github.com/Pbartek/pyobd-pi-TFT
