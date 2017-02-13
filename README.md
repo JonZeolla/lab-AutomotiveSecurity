@@ -52,6 +52,7 @@ setup/configure.sh
 * http://www.boschdiagnostics.com/pro/j2534-faqs  
 * http://www.canbushack.com/blog/index.php  
 * https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris
+* http://illmatics.com/carhacking.html (including all of their [tools](http://illmatics.com/content.zip)!).  Related:  Chris presented at SCIS in the past - see the details [here](https://www.meetup.com/Steel-City-InfoSec/messages/boards/thread/39866542).
 
 ## Migration
 On 2016-12-27, this repo was migrated from the AutomotiveSecurity branch of https://github.com/JonZeolla/Lab to its own standalone repository.  This was in order to make contributions and third party use easier, as I received feedback that the branching strategy used before was confusing to some.
