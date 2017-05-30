@@ -1,9 +1,9 @@
 # Automotive Security Lab
 
 ## How to clone this branch
-* `git clone https://github.com/JonZeolla/lab-AutomotiveSecurity`
+* `git clone https://github.com/JonZeolla/lab-AutomotiveSecurity --recursive`
   * Clone the latest revision of the lab-AutomotiveSecurity repo.
-* `git clone -b 2016-05-12_SCIS_AutomotiveSecurity https://github.com/JonZeolla/lab-AutomotiveSecurity`
+* `git clone -b 2016-05-12_SCIS_AutomotiveSecurity https://github.com/JonZeolla/lab-AutomotiveSecurity --recursive`
   * Clone the revision of the lab-AutomotiveSecurity repo used during the 2016-05-12 Steel City InfoSec lab.  Cloning any of the pointers (tags) will put you in a detached HEAD state, which is expected.
 
 ## Contributing
